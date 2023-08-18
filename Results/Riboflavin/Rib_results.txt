@@ -1,0 +1,36 @@
+(1)report(res_glasso, recovered.glasso) :
+	CV Error:  0.2246113 
+	Params:  0.02279705 
+	NNZ:  4292 
+	condition number:  6146.348 
+	M:  29.39553 
+	Delta WS:  0.1031689 
+(2)report(res_clime, recovered.clime):
+	CV Error:  0.6126138 
+	Params:  0.2287441 
+	NNZ:  616 
+	condition number:  59.76493 
+	M:  57.35654 
+	Delta WS:  4.610778e-15 
+	
+(3)report(res_aclime, recovered.aclime)
+	CV Error:  0.9851703 
+	Params:  1 
+	NNZ:  100 
+	condition number:  1.077794 
+	M:  0.58735 
+	Delta WS:  0 
+(4)report(res_mb, recovered.mb)
+	CV Error:  0.2825841 
+	Params:  0.02 
+	NNZ:  3836 
+	condition number:  73333.92 
+	M:  142.0075 
+	Delta WS:  0.07439806 
+(5)report(res_hybrid.mb, recovered.hybrid.mb)
+	CV Error:  0.3094888 
+	Params:  32 
+	NNZ:  3234 
+	condition number:  73230.85 
+	M:  171.9864 
+	Delta WS:  0.04393138
